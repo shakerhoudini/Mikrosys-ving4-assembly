@@ -35,3 +35,5 @@ ldi r16, 99
 
 //Last r16 tilbake fra stakken:
 pop r16
+
+nop //No operation
